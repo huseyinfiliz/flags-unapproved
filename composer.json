@@ -1,6 +1,6 @@
 
 {
-    "name": "huseyinfiliz/flagunapproved",
+    "name": "custom/flag-to-unapproved",
     "description": "A Flarum extension that turns flagged posts into unapproved status.",
     "type": "flarum-extension",
     "license": "MIT",
